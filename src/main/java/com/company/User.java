@@ -1,8 +1,8 @@
 package com.company;
 
 public enum User {
-    USERNAME("username"),
-    PASSWORD("password");
+    USERNAME("root"),
+    PASSWORD("Zly259il1zhanna1");
 
     private final String value;
 
